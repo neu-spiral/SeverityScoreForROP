@@ -1,0 +1,4 @@
+*.bash
+*.err
+*.out
+*.pyc
