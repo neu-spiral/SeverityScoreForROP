@@ -60,3 +60,10 @@ The details of input parameters are:
     python code_fac/FAC_train_test_auc.py --loss LogLog --alpha 0.5 --lam 1.0 
     ```
     The input parameters to run FAC dataset follows the same requirement of Netflix dataset.
+    
+### Citing This Paper
+Please cite the following paper if you intend to use this code for your research.
+> A Severity Score For Retinopathy of Prematurity. Peng Tian, Yuan Guo, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Jennifer Dy, Deniz Erdogmus, Stratis Ioannidis. Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining
+
+### Acknowledgements
+Our work is supported by NIH (R01EY019474, P30EY10572), NSF (SCH-1622542 at MGH; SCH-1622536 at Northeastern; SCH-1622679 at OHSU), and by unrestricted departmental funding from Research to Prevent Blindness (OHSU).
